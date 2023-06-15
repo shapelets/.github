@@ -2,13 +2,13 @@
  
 [Docs](https://shapelets.io/doc/contents.html) | [Releases](https://shapelets.io/doc/release_notes/index.html) | [Examples](https://shapelets.io/ebooks-webinars/) | [Resources](https://shapelets.io/resources/)
  
-#Making the most of your data processing platform
+# Making the most of your data processing platform
  
 Shapelets is a data science and time series ecosystem for data scientists, and business analysts to bring your ideas to life, and a great opportunity for data engineers and architects to deliver rapid solutions across their organization.
  
 ![shapelets structure](https://shapelets.io/wp-content/uploads/2023/04/shapelets-platform-architecture.png)
  
-##Why is Shapelets special?
+## Why is Shapelets special?
  
 1. Much faster performance with much less resources.
  
@@ -16,15 +16,15 @@ Shapelets is a data science and time series ecosystem for data scientists, and b
  
 3. Unlimited users and pay per use.
  
-##Getting Started
+## Getting Started
  
 Develop accelerated solutions that integrate seamlessly with your data ecosystem.
  
-###Install
+### Install
  
 To install a binary distribution, the only requirement is to have a working (recent, 3.7.3 and onwards) version of Python in your system. If you don’t have Python yet you can download it here.
  
-####PIP
+#### PIP
  
 To install Shapelets using pip, you can install with:
  
@@ -46,11 +46,11 @@ To check if Shapelets is installed, you can execute:
  
 It’s a good idea to use a virtual environment or docker image, to avoid conflicts between versions.
  
-####Conda
+#### Conda
  
 Currently, conda installation is not available.
  
-##Helpful links
+## Helpful links
  
 -   [Documentation](https://shapelets.io/doc/contents.html)
 -   [Releases](https://shapelets.io/doc/release_notes/index.html)
