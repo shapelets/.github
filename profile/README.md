@@ -1,4 +1,4 @@
-![Shapelets](https://shapelets.io/wp-content/uploads/2023/04/shapelets-logo-home-page.svg)
+![Shapelets](https://github.com/shapelets/.github/blob/main/architecture.png)
  
 [Docs](https://shapelets.io/doc/contents.html) | [Releases](https://shapelets.io/doc/release_notes/index.html) | [Examples](https://shapelets.io/ebooks-webinars/) | [Resources](https://shapelets.io/resources/)
  
