@@ -1,4 +1,4 @@
-![Shapelets](https://github.com/shapelets/.github/blob/main/profile/logo.png)
+![Shapelets](https://github.com/shapelets/.github/blob/main/profile/logo.png = 0.5x)
  
 [Docs](https://shapelets.io/doc/contents.html) | [Releases](https://shapelets.io/doc/release_notes/index.html) | [Examples](https://shapelets.io/ebooks-webinars/) | [Resources](https://shapelets.io/resources/)
  
