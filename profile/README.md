@@ -2,9 +2,7 @@
 <img src="https://github.com/shapelets/.github/blob/main/profile/logo.png" width="400">
 </p>
 
- <p align="center">
 [Docs](https://shapelets.io/doc/contents.html) | [Releases](https://shapelets.io/doc/release_notes/index.html) | [Examples](https://shapelets.io/ebooks-webinars/) | [Resources](https://shapelets.io/resources/)
- </p>
 
 # Making the most of your data processing platform
  
