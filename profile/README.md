@@ -1,4 +1,4 @@
-![Shapelets](https://github.com/shapelets/.github/blob/main/architecture.png)
+![Shapelets](https://github.com/shapelets/.github/blob/main/logo.png)
  
 [Docs](https://shapelets.io/doc/contents.html) | [Releases](https://shapelets.io/doc/release_notes/index.html) | [Examples](https://shapelets.io/ebooks-webinars/) | [Resources](https://shapelets.io/resources/)
  
@@ -6,7 +6,7 @@
  
 Shapelets is a data science and time series ecosystem for data scientists, and business analysts to bring your ideas to life, and a great opportunity for data engineers and architects to deliver rapid solutions across their organization.
  
-![shapelets structure](https://shapelets.io/wp-content/uploads/2023/04/shapelets-platform-architecture.png)
+![shapelets structure](https://github.com/shapelets/.github/blob/main/architecture.png)
  
 ## Why is Shapelets special?
  
