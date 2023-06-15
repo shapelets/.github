@@ -1,12 +1,15 @@
 <p align="center">
 <img src="https://github.com/shapelets/.github/blob/main/profile/logo.png" width="400">
- 
+</p>
+
+ <p align="center">
 [Docs](https://shapelets.io/doc/contents.html) | [Releases](https://shapelets.io/doc/release_notes/index.html) | [Examples](https://shapelets.io/ebooks-webinars/) | [Resources](https://shapelets.io/resources/)
- 
+ </p>
+
 # Making the most of your data processing platform
  
 Shapelets is a data science and time series ecosystem for data scientists, and business analysts to bring your ideas to life, and a great opportunity for data engineers and architects to deliver rapid solutions across their organization.
-</p>
+
  
 ![shapelets structure](https://github.com/shapelets/.github/blob/main/profile/architecture.png)
  
@@ -31,7 +34,8 @@ To install a binary distribution, the only requirement is to have a working (rec
 To install Shapelets using pip, you can install them with:
  
 >>> pip install shapelets-platform
- 
+
+
 > **_NOTE:_**  Using a virtual environment or Docker is a good idea to avoid conflicts between libraries installed on your system. If you are not familiar with these methods, you can find the instructions below.
  
 If you want to use the Virtual File System (VFS) feature, you need to install the drivers. You can do it with:
