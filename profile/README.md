@@ -36,12 +36,6 @@ To install Shapelets using pip, you can install them with:
 
 > **_NOTE:_**  Using a virtual environment or Docker is a good idea to avoid conflicts between libraries installed on your system. If you are not familiar with these methods, you can find the instructions below.
  
-If you want to use the Virtual File System (VFS) feature, you need to install the drivers. You can do it with:
- 
->>> pip install shapelets-platform[vfs-all]
- 
-Alert: With all options, you will install all the drivers. We currently support Azure Blob Storage Gen1 & Gen2, Server Message Block (SMB) and the local filesystem. Other fsspec-compatible protocols will be available soon.
- 
 To check if Shapelets is installed, you can execute the following:
  
 >>> python -c "import shapelets as sh; print(sh.__version__)"
