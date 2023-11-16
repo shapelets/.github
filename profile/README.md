@@ -4,7 +4,7 @@
 
 [Docs](https://shapelets.io/doc/contents.html) | [Releases](https://shapelets.io/doc/release_notes/index.html) | [Examples](https://shapelets.io/ebooks-webinars/) | [Resources](https://shapelets.io/resources/)
 
-# Making the most of your data processing platform
+# Making the most of your data processing
  
 Shapelets is a data science and time series ecosystem for data scientists, and business analysts to bring your ideas to life, and a great opportunity for data engineers and architects to deliver rapid solutions across their organization.
 
